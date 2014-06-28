@@ -28,6 +28,22 @@ You can view a live demo at [http://fahad.pw](http://fahad.pw/).
 
 Restart the Ghost.
 
+## Tweak
+
+### Slideshow
+
+5 images slideshow. Image size: Width:706px Height:220px
+Replace the desired images to `/assets/images/`
+Named as 1.jpg,2.jpg,3.jpg,4.jpg,5.jpg
+
+### Navigation Menu
+
+Edit `partials/navigation.hbs`
+
+### Sidebar
+
+You can also add more widget to the sidebar by editing `partials/sidebar.hbs`
+
 
 ## Copyright
 
