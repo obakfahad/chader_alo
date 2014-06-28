@@ -19,7 +19,8 @@ You can view a live demo at [http://fahad.pw](http://fahad.pw/).
 * Using Disqus as a comment system.
 * Nice Slideshow.
 * Fabulous Navigation feature.
-
+* Sidebar.
+* Responsive image.
 
 ## Install
 1. `cd *ghost-path*/content/themes`
